@@ -49,5 +49,5 @@ console.log(newLine);
 console.log(coffeLine);
 
 //array splice 
-// it's all same as array slice just one difference it will modify the actual array
-
+// it's all same as array slice just one difference it will modify the actual arraay
+ 
