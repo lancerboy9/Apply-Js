@@ -5,3 +5,10 @@ let mimAge = friendsAge[1]; /* output will be 33 , cause now the value is change
 console.log(friendsAge);
 console.log(mimAge);
 
+let position = friendsAge.indexOf(46); /* indexOf show the position of an array element */
+console.log(position);
+
+position = friendsAge.indexOf(22);
+console.log(position); /* it will return -1 because 22 is missing on the array */
+
+
